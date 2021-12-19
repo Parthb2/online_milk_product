@@ -1,7 +1,0 @@
-stripe publish key
-pk_test_51JJi4qSDyht7Rp2MAL3XHrOiDcAbLTJjHjKALP2DZCRsMbSpDev7DCZ51TyViqChDZxqkahl0Dbr1R7wiiaqsatO00kDXcLWfA
-
-stipe secure key
-sk_test_51JJi4qSDyht7Rp2MbqW9w7nYlYJG5KRrfLyHgzehmdQA6HOJBJkoum4Jy5igvBucuekZXFjrvk3YR2EuvBLR2t1d00pu9txFrn
-
-"react-bootstrap": "^1.6.1"
